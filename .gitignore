@@ -1,0 +1,7 @@
+/.settings/
+/recordings/
+/target/
+/test-output/
+.classpath
+.DS_Store
+.project
